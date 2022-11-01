@@ -1,0 +1,15 @@
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.csproj.AssemblyReference.cache
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.AssemblyInfoInputs.cache
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.AssemblyInfo.cs
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.csproj.CoreCompileInputs.cache
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\bin\Debug\net6.0\Sims.exe
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\bin\Debug\net6.0\Sims.deps.json
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\bin\Debug\net6.0\Sims.runtimeconfig.json
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\bin\Debug\net6.0\Sims.dll
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\bin\Debug\net6.0\Sims.pdb
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.dll
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\refint\Sims.dll
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.pdb
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\Sims.genruntimeconfig.cache
+C:\Users\Magnus GetAcademy\Documents\GitHub\moodle-modul3\Sims\obj\Debug\net6.0\ref\Sims.dll
