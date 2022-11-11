@@ -21,7 +21,7 @@ public class BuildMode
 {
     public House House { get; set; }
     List<Room> AvailableRooms { get; set; }
-    // pause til 13.07 
+    
 
     public BuildMode()
     {
