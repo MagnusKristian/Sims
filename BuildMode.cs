@@ -28,7 +28,7 @@ public class BuildMode
         AvailableRooms = new List<Room>();
         AvailableRooms.Add(new Kitchen());
         AvailableRooms.Add(new Bathroom());
-        AvailableRooms.Add(new LivingRoom());
+        AvailableRooms.Add(new Bedroom());
         House = new House();
 
     }

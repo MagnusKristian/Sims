@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Magnus GetAcademy\\Documents\\GitHub\\moodle-modul3\\Sims\\Sims.csproj",
+      "projectUniqueName": "C:\\Users\\Magnus GetAcademy\\Documents\\GitHub\\Sims\\Sims.csproj",
       "projectName": "Sims",
-      "projectPath": "C:\\Users\\Magnus GetAcademy\\Documents\\GitHub\\moodle-modul3\\Sims\\Sims.csproj",
+      "projectPath": "C:\\Users\\Magnus GetAcademy\\Documents\\GitHub\\Sims\\Sims.csproj",
       "packagesPath": "C:\\Users\\Magnus GetAcademy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Magnus GetAcademy\\Documents\\GitHub\\moodle-modul3\\Sims\\obj\\",
+      "outputPath": "C:\\Users\\Magnus GetAcademy\\Documents\\GitHub\\Sims\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Magnus GetAcademy\\AppData\\Roaming\\NuGet\\NuGet.Config",
